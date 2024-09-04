@@ -108,19 +108,19 @@ The original dataset from Kaggle contained only 127 data points, which was not s
 
 <img src="https://github.com/user-attachments/assets/1d507365-81c9-4b8d-b418-4e83751905b1" alt="Screenshot 2024-09-04 031352" width="700">
 <br><br><br><br>
-<img src="https://github.com/user-attachments/assets/00b29948-81c5-459f-8607-62e33406af88" alt="Screenshot 2024-09-04 031657" width="1200">
+<img src="https://github.com/user-attachments/assets/ebf8fa3e-86ea-45d9-a045-ab79fd7de1ea" alt="Screenshot 2024-09-04 031657" width="1200">
 <br><br><br><br>
-<img src="https://github.com/user-attachments/assets/8f4b35d0-e1ce-4589-89df-16980f6799d9" alt="Screenshot 2024-09-04 031619" width="400">
+<img src="https://github.com/user-attachments/assets/d2690eeb-acc7-4d19-b35f-cd8da91ebf64" alt="Screenshot 2024-09-04 031619" width="400">
 <br><br><br><br>
-<img src="https://github.com/user-attachments/assets/e589619e-f0bb-4b9a-9da6-0d522598b83a" alt="Screenshot 2024-09-04 031516" width="350" style="vertical-align: top;"/>
+<img src="https://github.com/user-attachments/assets/1f6e7a34-532d-4039-b38b-7560e12d8d93" alt="Screenshot 2024-09-04 031516" width="350" style="vertical-align: top;"/>
 <br><br><br><br>
-<img src="https://github.com/user-attachments/assets/79a3de53-511a-49a0-8518-3ec0431fe606" alt="Screenshot 2024-09-04 031527" width="320" style="vertical-align: top;"/>
+<img src="https://github.com/user-attachments/assets/b482cc5a-66d7-49e7-91a1-a547308714d5" alt="Screenshot 2024-09-04 031527" width="320" style="vertical-align: top;"/>
 <br><br><br><br>
-<img src="https://github.com/user-attachments/assets/9ade0312-705e-4e90-bdad-ebefbb0199fe" alt="Screenshot 2024-09-04 031453" width="320" style="vertical-align: top;"/>
+<img src="https://github.com/user-attachments/assets/86304ec8-4cc6-4f30-a794-79d913cc4973" alt="Screenshot 2024-09-04 031453" width="320" style="vertical-align: top;"/>
 <br><br><br><br>
-<img src="https://github.com/user-attachments/assets/fcf7376a-1f79-4a05-9fed-632e88f34393" alt="Screenshot 2024-09-04 031535" width="320" style="vertical-align: top;"/>
+<img src="https://github.com/user-attachments/assets/e8ed4897-0b04-4621-8fe4-53b3160d3782" alt="Screenshot 2024-09-04 031535" width="320" style="vertical-align: top;"/>
 <br><br><br><br>
-<img src="https://github.com/user-attachments/assets/d284f16f-0068-4939-b2c3-ade1cc3bc59d" alt="Screenshot 2024-09-04 031420" width="310" style="vertical-align: top;"/>
+<img src="https://github.com/user-attachments/assets/93871ec0-2b0a-4ccc-8385-f3a166f36c3b" alt="Screenshot 2024-09-04 031420" width="310" style="vertical-align: top;"/>
 
 
 
@@ -162,7 +162,7 @@ To understand the relationships between different features and identify potentia
 
 The correlation matrix and heatmap help in identifying strongly correlated features that could be redundant or have multicollinearity, guiding feature selection and engineering decisions.
 
-<img src="https://github.com/user-attachments/assets/514f43d8-d4f2-4dfd-9b71-12ea9cd350fe" alt="Screenshot 2024-09-04 050101" width="600">
+<img src="https://github.com/user-attachments/assets/5b90d935-0051-48bd-acec-58b6175bb572" alt="Screenshot 2024-09-04 050101" width="600">
 
 
 ## **Model Development**
@@ -208,7 +208,7 @@ The model was evaluated on the test dataset with the following performance metri
 - **Test Data RMSE**: 703086.2383
 - **Test Data MAPE**: 2.1806%
 
-<img src="https://github.com/user-attachments/assets/e2ce699e-2118-4d90-8068-0601e3a1bec5" alt="Screenshot 2024-09-04 082037" width="700">
+<img src="https://github.com/user-attachments/assets/a3638b6b-5f3a-479d-8772-5bd89f05ebf0" alt="Screenshot 2024-09-04 082037" width="700">
 
 
 
