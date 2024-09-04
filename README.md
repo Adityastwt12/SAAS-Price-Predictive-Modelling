@@ -106,7 +106,7 @@ The original dataset from Kaggle contained only 127 data points, which was not s
 - **CTGAN** was used to generate 10,000 synthetic data samples that match the distribution and characteristics of the original dataset.
 - **Table Evaluator** was employed to visually assess and validate how well the synthetic data aligns with the original data in terms of distributions, correlations, and overall patterns.
 
-<img src="https://github.com/user-attachments/assets/434c91cb-b969-4ccf-ba0b-fd7fcc3d2bac" alt="Screenshot 2024-09-04 031352" width="700">
+<img src="https://github.com/user-attachments/assets/1d507365-81c9-4b8d-b418-4e83751905b1" alt="Screenshot 2024-09-04 031352" width="700">
 <br><br><br><br>
 <img src="https://github.com/user-attachments/assets/00b29948-81c5-459f-8607-62e33406af88" alt="Screenshot 2024-09-04 031657" width="1200">
 <br><br><br><br>
