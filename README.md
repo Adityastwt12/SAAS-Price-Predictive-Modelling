@@ -34,6 +34,7 @@ Accurately pricing SaaS products is crucial for ensuring competitiveness and pro
 2. **Install the required modules:**
 
     ```bash
+    cd SAAS-Price-Predictive-Modelling
     pip install pandas -r requirements.txt
 
 
@@ -307,7 +308,11 @@ The application is packaged as a standalone executable. To install and run the a
    ```bash
    git clone https://github.com/a-r-p-i-t/SAAS-Price-Predictive-Modelling.git
 
-3. **Run the Python Script**: Run the **[app.py](./app.py)** script to start the application. No additional installation steps are required.
+2. **Run the Python Script**:
+
+   cd SAAS-Price-Predictive-Modelling.git
+   <br>
+   Run the **[app.py](./app.py)** script to start the application. No additional installation steps are required.
 
 ### **Usage**
 
