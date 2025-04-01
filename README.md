@@ -28,8 +28,7 @@ Accurately pricing SaaS products is crucial for ensuring competitiveness and pro
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/a-r-p-i-t/SAAS-Price-Predictive-Modelling.git
-
+   https://github.com/Adityastwt12/SAAS-Price-Predictive-Modelling.git
 
 2. **Install the required modules:**
 
@@ -306,8 +305,7 @@ The application is packaged as a standalone executable. To install and run the a
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/a-r-p-i-t/SAAS-Price-Predictive-Modelling.git
-
+   https://github.com/Adityastwt12/SAAS-Price-Predictive-Modelling.git
 2. **Run the Python Script**:
 
    cd SAAS-Price-Predictive-Modelling.git
@@ -329,7 +327,7 @@ The application is packaged as a standalone executable. To install and run the a
 
 ### **Contact**
 
-For any issues or inquiries, please contact **[Arpit Mohanty]** at **[arpitmohanty222@gmail.com]**.
+For any issues or inquiries, please contact **[Aditya Dash]** at **[adityadash045@gmail.com]**.
 
 ## **Conclusion**
 
